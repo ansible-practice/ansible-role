@@ -14,8 +14,8 @@ open remote window in vs code and ssh to the vm.
 
 update the config based on pem file location
 
-Host ansible-control
-    HostName 20.234.37.129
-    User azureuser
-    IdentityFile ~/.ssh/ansible-practice-vm_key.pem
-    IdentitiesOnly yes
+    Host ansible-control
+        HostName 20.234.37.129
+        User azureuser
+        IdentityFile ~/.ssh/ansible-practice-vm_key.pem
+        IdentitiesOnly yes
