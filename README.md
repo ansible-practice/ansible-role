@@ -1,3 +1,6 @@
+(in progress)
+
+
 ssh to azure vm -- > 
             ssh -i azure_key.pem azureuser@20.234.37.129
 
